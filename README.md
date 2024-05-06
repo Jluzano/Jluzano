@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin Luzano, welcome to my profile.</h1>
-- 🔭 I’m currently working on **projects, whether they be tutorials to expand my knowledge, or random things for my hobbies.**
+- 🔭 I’m currently working on projects, whether they be tutorials to expand my knowledge, or random things for my hobbies.
 
 - 📫 How to reach me **justinluzano@gmail.com**
 
