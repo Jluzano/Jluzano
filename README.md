@@ -4,6 +4,7 @@
 - 📫 How to reach me **justinluzano@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+- LinkedIn: **https://www.linkedin.com/in/justin-luzano/**
 <p align="left">
 </p>
 
